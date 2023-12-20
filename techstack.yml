@@ -1,0 +1,19 @@
+repo_name: ammaralnajim/LS-lBS
+report_id: 43a174b1fa2f731e88252430b36e17e9
+version: 0.1
+repo_type: Public
+timestamp: '2023-12-20T18:37:09+00:00'
+requested_by: ammaralnajim
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
